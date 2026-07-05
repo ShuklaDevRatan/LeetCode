@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
