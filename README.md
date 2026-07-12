@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0075-sort-colors](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
