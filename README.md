@@ -51,6 +51,7 @@
 | [0048-rotate-image](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
