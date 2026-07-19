@@ -1,49 +1,26 @@
 class Solution {
     public String smallestSubsequence(String s) {
+        int count[] = new int[26];
+        boolean inStack[] = new boolean [26];
+        Stack<Character> st = new Stack<>();
 
-        // Stores the last occurrence of every character
-        int[] lastIndex = new int[26];
-
-        for (int i = 0; i < s.length(); i++) {
-            lastIndex[s.charAt(i) - 'a'] = i;
+        for(char ch : s.toCharArray()){
+            count[ch - 'a']++;
         }
-
-        // Stores the answer
-        Stack<Character> stack = new Stack<>();
-
-        // Tracks whether a character is already present in the stack
-        boolean[] inStack = new boolean[26];
-
-        for (int i = 0; i < s.length(); i++) {
-
-            char current = s.charAt(i);
-
-            // Skip duplicates
-            if (inStack[current - 'a']) {
-                continue;
+        for(char ch : s.toCharArray()){
+            count[ch - 'a']--;
+            if(inStack[ch-'a']) continue;
+            while(!st.isEmpty() && ch < st.peek() && count[st.peek()-'a'] > 0){
+                char remove = st.pop();
+                inStack[remove-'a'] = false;
             }
-
-            // Remove larger characters if they appear again later
-            while (!stack.isEmpty()
-                    && stack.peek() > current
-                    && i < lastIndex[stack.peek() - 'a']) {
-
-                char removed = stack.pop();
-                inStack[removed - 'a'] = false;
-            }
-
-            // Add current character
-            stack.push(current);
-            inStack[current - 'a'] = true;
+            st.push(ch);
+            inStack[ch - 'a'] = true;
         }
-
-        // Build final answer
-        StringBuilder ans = new StringBuilder();
-
-        for (char ch : stack) {
-            ans.append(ch);
+        StringBuilder result = new StringBuilder();
+        for (char ch : st) {
+            result.append(ch);
         }
-
-        return ans.toString();
+        return result.toString();
     }
 }
