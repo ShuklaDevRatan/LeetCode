@@ -1,28 +1,24 @@
-import java.util.Stack;
-
 class Solution {
     public String removeOuterParentheses(String s) {
 
-        Stack<Character> stack = new Stack<>();
         StringBuilder ans = new StringBuilder();
+        int count = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-
-            char ch = s.charAt(i);
+        for (char ch : s.toCharArray()) {
 
             if (ch == '(') {
 
-                if (!stack.isEmpty()) {
+                if (count > 0) {
                     ans.append(ch);
                 }
 
-                stack.push(ch);
+                count++;
 
             } else {
 
-                stack.pop();
+                count--;
 
-                if (!stack.isEmpty()) {
+                if (count > 0) {
                     ans.append(ch);
                 }
             }
