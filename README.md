@@ -42,6 +42,7 @@
 | [1260-shift-2d-grid](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -147,6 +148,7 @@
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
