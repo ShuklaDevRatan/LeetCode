@@ -3,28 +3,30 @@ class Solution {
 
         int[] freq = new int[26];
 
-        // Count frequency of each character
+        // Count frequency
         for (char ch : s.toCharArray()) {
             freq[ch - 'a']++;
         }
 
-        StringBuilder left = new StringBuilder();
-        String middle = "";
+        char[] ans = new char[s.length()];
+        int left = 0;
+        int right = s.length() - 1;
 
-        // Build left half and find middle character
         for (int i = 0; i < 26; i++) {
 
-            if (freq[i] % 2 == 1) {
-                middle = String.valueOf((char) (i + 'a'));
+            // Place pairs directly
+            while (freq[i] >= 2) {
+                ans[left++] = (char) (i + 'a');
+                ans[right--] = (char) (i + 'a');
+                freq[i] -= 2;
             }
-
-            for (int j = 0; j < freq[i] / 2; j++) {
-                left.append((char) (i + 'a'));
+            
+            // Remaining odd character goes to the middle
+            if (freq[i] == 1) {
+                ans[s.length() / 2] = (char) (i + 'a');
             }
         }
 
-        String right = new StringBuilder(left).reverse().toString();
-
-        return left.toString() + middle + right;
+        return new String(ans);
     }
 }
