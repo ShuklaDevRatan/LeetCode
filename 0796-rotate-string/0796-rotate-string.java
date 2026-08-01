@@ -5,37 +5,8 @@ class Solution {
             return false;
         }
 
-        int i = 0;
+        String doubled = s + s;
 
-        while (i < s.length()) {
-
-            if (s.charAt(i) == goal.charAt(0)) {
-
-                int j = i;
-                int k = 0;
-
-                while (k < goal.length()) {
-
-                    if (s.charAt(j) != goal.charAt(k)) {
-                        break;
-                    }
-
-                    j++;
-                    k++;
-
-                    if (j == s.length()) {
-                        j = 0;
-                    }
-                }
-
-                if (k == goal.length()) {
-                    return true;
-                }
-            }
-
-            i++;
-        }
-
-        return false;
+        return doubled.contains(goal);
     }
 }
