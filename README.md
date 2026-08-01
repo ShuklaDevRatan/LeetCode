@@ -96,6 +96,7 @@
 | [0014-longest-common-prefix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
