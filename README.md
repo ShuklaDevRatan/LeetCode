@@ -60,6 +60,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -98,6 +99,7 @@
 | [0014-longest-common-prefix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -165,6 +167,7 @@
 | [0075-sort-colors](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
