@@ -5,20 +5,19 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
-        for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        for (int i = 0; i < s.length(); i++) {
+            freq[s.charAt(i) - 'a']++;
+            freq[t.charAt(i) - 'a']--;
         }
 
-        for (char ch : t.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) - 1);
-
-            if (map.get(ch) == 0) {
-                map.remove(ch);
+        for (int count : freq) {
+            if (count != 0) {
+                return false;
             }
         }
 
-        return map.isEmpty();
+        return true;
     }
 }
