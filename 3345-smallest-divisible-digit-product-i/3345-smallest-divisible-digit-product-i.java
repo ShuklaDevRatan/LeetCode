@@ -14,6 +14,6 @@ class Solution {
             n /= 10;
         }
 
-        return product%t==0?true:false;
+        return product%t==0;
     }
 }
