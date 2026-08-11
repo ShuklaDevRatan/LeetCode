@@ -137,6 +137,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -309,4 +310,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
