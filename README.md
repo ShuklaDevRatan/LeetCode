@@ -52,6 +52,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +92,7 @@
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -186,6 +188,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -256,6 +259,7 @@
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -343,4 +348,16 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
