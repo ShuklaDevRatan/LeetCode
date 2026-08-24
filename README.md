@@ -51,6 +51,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
@@ -98,6 +99,7 @@
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1927-sum-game) |
@@ -164,6 +166,7 @@
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,6 +347,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## String Matching
@@ -384,6 +389,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -392,6 +398,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
