@@ -99,6 +99,7 @@
 | [0050-powx-n](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -180,6 +181,7 @@
 | [0206-reverse-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1922-count-good-numbers) |
