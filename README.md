@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -227,6 +229,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
