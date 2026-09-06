@@ -111,6 +111,7 @@
 | [0050-powx-n](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
@@ -392,6 +393,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
@@ -439,11 +441,13 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -458,4 +462,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0078-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
