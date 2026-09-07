@@ -18,11 +18,8 @@ class Solution {
             List<Integer> ans,
             List<List<Integer>> result) {
 
-        if (index == candidates.length || candidates[index] > target) {
-            if (target == 0) {
-                result.add(new ArrayList<>(ans));
-                return;
-            }
+        if (target == 0) {
+            result.add(new ArrayList<>(ans));
             return;
         }
 
