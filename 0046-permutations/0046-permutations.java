@@ -1,26 +1,39 @@
 class Solution {
+
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>>ans = new ArrayList<>();
-        List<Integer> ds = new ArrayList<>();
-        boolean freq[] = new boolean[nums.length];
-        permute(nums, ans , ds , freq);
+        List<List<Integer>> ans = new ArrayList<>();
+
+        permute(nums, 0, ans);
+
         return ans;
     }
 
-    private void permute(int[]nums , List<List<Integer>>ans ,List<Integer> ds, boolean []freq){
-        if(ds.size() == nums.length){
-            ans.add(new ArrayList<>(ds));
+    private void permute(int[] nums, int index, List<List<Integer>> ans) {
+
+        if (index == nums.length) {
+            List<Integer> permutation = new ArrayList<>();
+
+            for (int num : nums) {
+                permutation.add(num);
+            }
+
+            ans.add(permutation);
             return;
         }
-        
-        for(int i = 0 ; i < nums.length; i++){
-            if(!freq[i]){
-                freq[i] = true;
-                ds.add(nums[i]);
-                permute(nums, ans , ds , freq);
-                ds.remove(ds.size()-1);
-                freq[i] = false;
-            }
+
+        for (int i = index; i < nums.length; i++) {
+
+            swap(nums, index, i);
+
+            permute(nums, index + 1, ans);
+
+            swap(nums, index, i);
         }
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
