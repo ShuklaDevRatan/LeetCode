@@ -39,6 +39,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -283,6 +285,7 @@
 | [0075-sort-colors](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
