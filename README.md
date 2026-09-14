@@ -128,6 +128,7 @@
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -510,4 +511,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
