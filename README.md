@@ -20,6 +20,7 @@
 | [0046-permutations](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
@@ -524,6 +525,7 @@
 | [0040-combination-sum-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0090-subsets-ii) |
 ## Brainteaser
@@ -573,4 +575,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
