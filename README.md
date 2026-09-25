@@ -133,6 +133,7 @@
 | [0013-roman-to-integer](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
