@@ -201,6 +201,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
@@ -226,6 +227,7 @@
 | [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0509-fibonacci-number) |
@@ -530,6 +532,7 @@
 | [0051-n-queens](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Brainteaser
 |  |
 | ------- |
