@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0046-permutations) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -378,6 +380,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0073-set-matrix-zeroes) |
