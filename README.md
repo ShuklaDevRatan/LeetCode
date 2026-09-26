@@ -68,6 +68,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -116,6 +117,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -212,6 +214,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
