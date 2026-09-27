@@ -1,32 +1,48 @@
 class Solution {
     public String reverseParentheses(String s) {
 
-        StringBuilder sb = new StringBuilder();
+        int n = s.length();
+
+        int[] pair = new int[n];
         Stack<Integer> stack = new Stack<>();
 
-        for (char ch : s.toCharArray()) {
+        // Find matching parentheses
+        for (int i = 0; i < n; i++) {
 
-            if (ch == '(') {
-                stack.push(sb.length());
+            if (s.charAt(i) == '(') {
+                stack.push(i);
             } 
-            else if (ch == ')') {
+            else if (s.charAt(i) == ')') {
 
-                int start = stack.pop();
+                int open = stack.pop();
 
-                StringBuilder temp = new StringBuilder(
-                    sb.substring(start)
-                );
-
-                temp.reverse();
-
-                sb.replace(start, sb.length(), temp.toString());
-
-            } 
-            else {
-                sb.append(ch);
+                pair[open] = i;
+                pair[i] = open;
             }
         }
 
-        return sb.toString();
+        StringBuilder ans = new StringBuilder();
+
+        int i = 0;
+        int direction = 1;
+
+        while (i < n) {
+
+            char ch = s.charAt(i);
+
+            if (ch == '(' || ch == ')') {
+
+                i = pair[i];
+                direction = -direction;
+
+            } else {
+
+                ans.append(ch);
+            }
+
+            i += direction;
+        }
+
+        return ans.toString();
     }
 }
