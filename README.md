@@ -31,6 +31,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -209,6 +210,7 @@
 | [0020-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -391,6 +393,7 @@
 | [0054-spiral-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -551,6 +554,7 @@
 | [0051-n-queens](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Brainteaser
@@ -568,6 +572,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
