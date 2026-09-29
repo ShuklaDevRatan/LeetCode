@@ -43,6 +43,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -144,6 +145,7 @@
 | [0060-permutation-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0326-power-of-three) |
@@ -427,6 +429,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -434,6 +437,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -616,4 +620,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0037-sudoku-solver) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
