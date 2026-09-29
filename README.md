@@ -47,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@
 | [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0525-contiguous-array) |
@@ -147,6 +149,7 @@
 | [0202-happy-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0342-power-of-four) |
@@ -285,6 +288,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -336,6 +340,7 @@
 | [0217-contains-duplicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -364,6 +369,7 @@
 | [0090-subsets-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
