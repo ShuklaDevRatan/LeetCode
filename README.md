@@ -50,6 +50,7 @@
 | [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0493-reverse-pairs) |
@@ -204,6 +205,7 @@
 | [0234-palindrome-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -316,6 +318,7 @@
 | [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -349,6 +352,7 @@
 | [0242-valid-anagram](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -657,4 +661,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
