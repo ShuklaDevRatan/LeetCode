@@ -218,6 +218,7 @@
 | [0020-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0125-valid-palindrome) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -458,6 +460,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -511,6 +514,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
