@@ -90,6 +90,7 @@
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -483,6 +484,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
