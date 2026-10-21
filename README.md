@@ -105,6 +105,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -154,6 +155,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3668-restore-finishing-order](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3731-find-missing-elements) |
