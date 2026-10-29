@@ -166,6 +166,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
