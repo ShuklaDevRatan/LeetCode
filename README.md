@@ -106,6 +106,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -205,6 +206,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
