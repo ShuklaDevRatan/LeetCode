@@ -206,6 +206,7 @@
 | [1927-sum-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
+| [2396-strictly-palindromic-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -257,6 +258,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -701,6 +703,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
