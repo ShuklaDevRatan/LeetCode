@@ -293,6 +293,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -391,6 +392,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1927-sum-game) |
