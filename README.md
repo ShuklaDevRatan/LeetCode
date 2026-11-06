@@ -104,6 +104,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -303,6 +304,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
