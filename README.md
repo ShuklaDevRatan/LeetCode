@@ -210,6 +210,7 @@
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2469-convert-the-temperature](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
