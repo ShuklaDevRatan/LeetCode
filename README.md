@@ -79,6 +79,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -513,6 +514,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -527,6 +529,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
@@ -535,6 +538,7 @@
 | [0229-majority-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -729,6 +733,7 @@
 | ------- |
 | [0079-word-search](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -795,4 +800,5 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
