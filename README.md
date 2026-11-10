@@ -119,6 +119,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -336,6 +337,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
