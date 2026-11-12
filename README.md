@@ -112,6 +112,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
