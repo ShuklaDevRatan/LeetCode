@@ -621,6 +621,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -635,6 +636,7 @@
 | [0402-remove-k-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -794,6 +796,7 @@
 | [0155-min-stack](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -843,4 +846,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
