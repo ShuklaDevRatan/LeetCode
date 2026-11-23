@@ -84,6 +84,7 @@
 | [1267-count-servers-that-communicate](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -212,6 +213,7 @@
 | [0836-rectangle-overlap](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -496,6 +498,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -798,6 +801,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -851,4 +855,5 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ShuklaDevRatan/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShuklaDevRatan/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
