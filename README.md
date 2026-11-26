@@ -231,6 +231,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -538,6 +539,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/ShuklaDevRatan/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
